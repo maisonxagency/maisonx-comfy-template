@@ -22,7 +22,6 @@ NODES=(
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/jnxmx/ComfyUI_HuggingFace_Downloader"
-    "https://github.com/teskor-hub/NEW-UTILS.git"
     "https://github.com/teskor-hub/comfyui-teskors-utils.git"
 )
 
