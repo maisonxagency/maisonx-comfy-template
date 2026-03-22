@@ -160,9 +160,7 @@ function provisioning_get_files() {
     done
 }
 
-if [[ ! -f /.noprovisioning ]]; then
-    provisioning_start
-fi
+provisioning_start
 
 cd "${COMFYUI_DIR}"
 python main.py --listen 0.0.0.0 --port 8188
